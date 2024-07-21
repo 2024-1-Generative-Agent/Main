@@ -60,14 +60,14 @@
 
 
 ## Updated Note
-### 원본 코드의 프론트엔드 부분을 제거하고, Zep을 사용하여 프론트엔드를 구현하였습니다.
-- Explanation
 ### 박물관 세계를 원본 코드 형식에 맞게 CSV/Json 형태로 작성하여 추가하였습니다.
 - 새롭게 추가된 Museum 구조는 다음과 같습니다.
 > ![Mindmap](./figure/mindmap.png)
 ### NPC들의 페르소나를 새롭게 구성한 뒤, 가상 세계 상에서 상호작용 하는 모습을 관찰하였습니다.
 - 다음과 같은 페르소나를 구성하였습니다.
 > ![Persona](./figure/Persona.png)
+### 원본 코드의 프론트엔드 부분을 제거하고, Zep을 사용하여 프론트엔드를 구현하였습니다.
+- Explanation
 ### Zep과 원본 코드를 FastAPI를 통해 연결하였습니다.
 - Explanation
 

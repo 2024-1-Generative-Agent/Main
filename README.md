@@ -66,6 +66,8 @@
 ### NPC들의 페르소나를 새롭게 구성한 뒤, 가상 세계 상에서 상호작용 하는 모습을 관찰하였습니다.
 - 다음과 같은 페르소나를 구성하였습니다.
 > ![Persona](./figure/Persona.png)
+- NPC 페르소나 세부 예시는 다음과 같습니다.
+> ![Persona_Speicifc](./figure/Persona_Specific.png)
 ### 원본 코드의 프론트엔드 부분을 제거하고, Zep을 사용하여 프론트엔드를 구현하였습니다.
 - Explanation
 ### Zep과 원본 코드를 FastAPI를 통해 연결하였습니다.

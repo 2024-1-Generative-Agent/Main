@@ -1,4 +1,9 @@
 ## 2024-1 Prometheous Generative Agent Main Repository
+<div style="display: flex;">
+  <img src="./figure/Generative_agent_1.png" alt="The Ville" style="width: 45%;">
+  
+  <img src="./figure/Generative_agent_2.png" alt="Ours" style="width: 45%;">
+</div>
 
 ## Topic: Virtual World 상에서 서로 상호작용하는 NPC 세계 만들기
 
@@ -13,8 +18,10 @@
 
 
 ## Demo
+<!--
 - 실제 시연 영상입니다. NPC들이 The Ville라는 원본 가상 세계에서 새로 추가된 Museum을 방문하는 모습입니다. 
 [Video](Video_Link)
+-->
 - Json 파일 예시입니다. NPC들이 박물관에 도착하여, 서로 상호작용 하고 있는 모습입니다.
 ```json
 {
@@ -53,10 +60,11 @@
 }
 ```
 
-
+<!-- 
 ## Study/Project Process
-- [Notion](https://www.notion.so/Generative-Agent-Project-fd2058e966d84030aece6a139c9d7361) 프로젝트 진행 과정을 담은 Notion 페이지입니다.
-- [PPT](???) 프로젝트 월간 발표 및 최종 발표자료입니다.
+- [Notion](https://slow-shoulder-97f.notion.site/c1c35781611e43b991394a885986f6c4?pvs=4) 프로젝트 진행 과정을 담은 Notion 페이지입니다.
+- [PPT](???) 프로젝트 월간 발표 및 최종 발표자료입니다. 
+-->
 
 
 ## Updated Note

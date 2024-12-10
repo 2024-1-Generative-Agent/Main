@@ -1,0 +1,116 @@
+{
+    "prometheus gallery": {
+        "enterance": {
+            "infor": [
+            "employee place", 
+            "firsh customer place",
+             "second customer place", 
+             "third customer place", 
+             "guide book shelf"], 
+        "exhibit enterance": [
+            "enterance", 
+            "exhibit poster", 
+            "guide pannel"], 
+        "bench": [
+            "left", 
+            "center", 
+            "right"]
+        }, 
+        "exit": {
+            "sitting place": [
+                "left chair", 
+                "right chair"], 
+            "exhibit exit": [
+                "exit", 
+                "pannel", 
+                "guide book shelf"], 
+            "bench": [
+                "left", 
+                "center", 
+                "right", 
+                "chiar"]
+        }, 
+        "firsh exhibit place": {
+            "stand exhibit": [
+                "first piece", 
+                "second piece", 
+                "third piece", 
+                "fourth piece", 
+                "fifth piece", 
+                "sixth piece", 
+                "seventh piece", 
+                "eighth piece"], 
+            "wall exhibit": [
+                "first piece", 
+                "second piece", 
+                "third piece", 
+                "fourth piece"], 
+            "sofa": [
+                "left", 
+                "right"], 
+            "chair": [
+                "chair"
+                ]
+            }, 
+        "second exhibit place": {
+            "first exhibit wall": [
+                    "left-side piece", 
+                    "right-side piece"
+            ], 
+            "second exhibit wall": [
+                    "left-side piece", 
+                    "right-side piece"
+            ], 
+            "third exhibit wall": [
+                    "left-side piece", 
+                    "right-side piece"
+            ], 
+            "fourth exhibit wall": [
+                    "left-side piece", 
+                    "right-side piece"
+                ], 
+                "fifth exhibit wall": [
+                    "left-side piece", 
+                    "right-side piece"], 
+                "sixth exhibit wall": [
+                    "left-side piece", 
+                    "right-side piece"
+                ], 
+                "bean bag": [
+                    "bean bag"
+                ],
+                "wall exhibit": [
+                    "first piece", 
+                    "second piece", 
+                    "third piece", 
+                    "fourth piece", 
+                    "fifth piece", 
+                    "sixth piece", 
+                    "seventh piece", 
+                    "eighth piece", 
+                    "ninth piece", 
+                    "tenth piece"
+                ]
+            }, 
+            "third exhibit place": {
+                "sofa": 
+                    ["left", 
+                    "right"], 
+                "stand exhibit": [
+                    "first piece", 
+                    "second piece", 
+                    "third piece", 
+                    "fourth piece", 
+                    "fifth piece", 
+                    "sixth piece", 
+                    "seventh piece", 
+                    "eighth piece"], 
+                "wall exhibit": [
+                    "first piece", 
+                    "second piece", 
+                    "third piece", 
+                    "fourth piece"
+                ]
+            }
+        }
+}

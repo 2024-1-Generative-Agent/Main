@@ -1,0 +1,118 @@
+32227, the Ville, <all>, bed
+32237, the Ville, <all>, desk
+32247, the Ville, <all>, closet
+32257, the Ville, <all>, shelf
+32267, the Ville, <all>, easel
+32277, the Ville, <all>, bathroom sink
+32208, the Ville, <all>, shower
+32218, the Ville, <all>, toilet
+32228, the Ville, <all>, kitchen sink
+32238, the Ville, <all>, refrigerator
+32248, the Ville, <all>, toaster
+32258, the Ville, <all>, cooking area
+32268, the Ville, <all>, common room table
+32278, the Ville, <all>, common room sofa
+32209, the Ville, <all>, guitar
+32219, the Ville, <all>, microphone
+32229, the Ville, <all>, bar customer seating
+32239, the Ville, <all>, behind the bar counter
+32249, the Ville, <all>, behind the cafe counter
+32259, the Ville, <all>, cafe customer seating
+32269, the Ville, <all>, piano
+32279, the Ville, <all>, blackboard
+32210, the Ville, <all>, game console
+32220, the Ville, <all>, computer desk
+32230, the Ville, <all>, computer
+32240, the Ville, <all>, library sofa
+32250, the Ville, <all>, bookshelf
+32260, the Ville, <all>, library table
+32270, the Ville, <all>, classroom student seating
+32280, the Ville, <all>, classroom podium
+32211, the Ville, <all>, behind the pharmacy counter
+32221, the Ville, <all>, behind the grocery counter
+32231, the Ville, <all>, pharmacy store shelf
+32241, the Ville, <all>, grocery store shelf
+32251, the Ville, <all>, pharmacy store counter
+32261, the Ville, <all>, grocery store counter
+32271, the Ville, <all>, supply store product shelf
+32281, the Ville, <all>, behind the supply store counter
+32212, the Ville, <all>, supply store counter
+32222, the Ville, <all>, dorm garden
+32232, the Ville, <all>, house garden
+32242, the Ville, <all>, garden chair
+32252, the Ville, <all>, park garden
+32262, the Ville, <all>, harp
+32272, the Ville, <all>, lifting weight
+32282, the Ville, <all>, pool table
+32701,the Ville, Gallery,enterance infor,employee place
+32702,the Ville, Gallery,enterance infor,firsh customer place
+32703,the Ville, Gallery,enterance infor,second customer place
+32704,the Ville, Gallery,enterance infor,third customer place
+32705,the Ville, Gallery,enterance infor,guide book shelf
+32706,the Ville, Gallery,enterance exhibit enterance,enterance
+32707,the Ville, Gallery,enterance exhibit enterance,exhibit poster
+32708,the Ville, Gallery,enterance exhibit enterance,guide pannel
+32709,the Ville, Gallery,enterance bench,left
+32710,the Ville, Gallery,enterance bench,center
+32711,the Ville, Gallery,enterance bench,right
+32712,the Ville, Gallery,exit sitting place,left chair
+32713,the Ville, Gallery,exit sitting place,right chair
+32714,the Ville, Gallery,exit exhibit exit,exit
+32715,the Ville, Gallery,exit exhibit exit,pannel
+32716,the Ville, Gallery,exit exhibit exit,guide book shelf
+32717,the Ville, Gallery,exit bench,left
+32718,the Ville, Gallery,exit bench,center
+32719,the Ville, Gallery,exit bench,right
+32720,the Ville, Gallery,exit bench,chiar
+32721,the Ville, Gallery,firsh exhibit place stand exhibit,first piece
+32722,the Ville, Gallery,firsh exhibit place stand exhibit,second piece
+32723,the Ville, Gallery,firsh exhibit place stand exhibit,third piece
+32724,the Ville, Gallery,firsh exhibit place stand exhibit,fourth piece
+32725,the Ville, Gallery,firsh exhibit place stand exhibit,fifth piece
+32726,the Ville, Gallery,firsh exhibit place stand exhibit,sixth piece
+32727,the Ville, Gallery,firsh exhibit place stand exhibit,seventh piece
+32728,the Ville, Gallery,firsh exhibit place stand exhibit,eighth piece
+32729,the Ville, Gallery,firsh exhibit place wall exhibit,first piece
+32730,the Ville, Gallery,firsh exhibit place wall exhibit,second piece
+32731,the Ville, Gallery,firsh exhibit place wall exhibit,third piece
+32732,the Ville, Gallery,firsh exhibit place wall exhibit,fourth piece
+32733,the Ville, Gallery,firsh exhibit place sofa,left
+32734,the Ville, Gallery,firsh exhibit place sofa,right
+32735,the Ville, Gallery,firsh exhibit place chair,chair
+32736,the Ville, Gallery,second exhibit place first exhibit wall,left-side piece
+32737,the Ville, Gallery,second exhibit place first exhibit wall,right-side piece
+32738,the Ville, Gallery,second exhibit place second exhibit wall,left-side piece
+32739,the Ville, Gallery,second exhibit place second exhibit wall,right-side piece
+32740,the Ville, Gallery,second exhibit place third exhibit wall,left-side piece
+32741,the Ville, Gallery,second exhibit place third exhibit wall,right-side piece
+32742,the Ville, Gallery,second exhibit place fourth exhibit wall,left-side piece
+32743,the Ville, Gallery,second exhibit place fourth exhibit wall,right-side piece
+32744,the Ville, Gallery,second exhibit place fifth exhibit wall,left-side piece
+32745,the Ville, Gallery,second exhibit place fifth exhibit wall,right-side piece
+32746,the Ville, Gallery,second exhibit place sixth exhibit wall,left-side piece
+32747,the Ville, Gallery,second exhibit place sixth exhibit wall,right-side piece
+32748,the Ville, Gallery,second exhibit place bean bag,bean bag
+32749,the Ville, Gallery,second exhibit place wall exhibit,first piece
+32750,the Ville, Gallery,second exhibit place wall exhibit,second piece
+32751,the Ville, Gallery,second exhibit place wall exhibit,third piece
+32752,the Ville, Gallery,second exhibit place wall exhibit,fourth piece
+32753,the Ville, Gallery,second exhibit place wall exhibit,fifth piece
+32754,the Ville, Gallery,second exhibit place wall exhibit,sixth piece
+32755,the Ville, Gallery,second exhibit place wall exhibit,seventh piece
+32756,the Ville, Gallery,second exhibit place wall exhibit,eighth piece
+32757,the Ville, Gallery,second exhibit place wall exhibit,ninth piece
+32758,the Ville, Gallery,second exhibit place wall exhibit,tenth piece
+32759,the Ville, Gallery,third exhibit place sofa,left
+32760,the Ville, Gallery,third exhibit place sofa,right
+32761,the Ville, Gallery,third exhibit place stand exhibit,first piece
+32762,the Ville, Gallery,third exhibit place stand exhibit,second piece
+32763,the Ville, Gallery,third exhibit place stand exhibit,third piece
+32764,the Ville, Gallery,third exhibit place stand exhibit,fourth piece
+32765,the Ville, Gallery,third exhibit place stand exhibit,fifth piece
+32766,the Ville, Gallery,third exhibit place stand exhibit,sixth piece
+32767,the Ville, Gallery,third exhibit place stand exhibit,seventh piece
+32768,the Ville, Gallery,third exhibit place stand exhibit,eighth piece
+32769,the Ville, Gallery,third exhibit place wall exhibit,first piece
+32770,the Ville, Gallery,third exhibit place wall exhibit,second piece
+32771,the Ville, Gallery,third exhibit place wall exhibit,third piece
+32772,the Ville, Gallery,third exhibit place wall exhibit,fourth piece

@@ -1,0 +1,1 @@
+npx zep-script archive && npx zep-script publish

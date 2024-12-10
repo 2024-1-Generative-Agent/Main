@@ -1,0 +1,72 @@
+"""(20,46)""",prometheus gallery,enterance,infor,employee place
+"""(20,49)""",prometheus gallery,enterance,infor,firsh customer place
+"""(18,49)""",prometheus gallery,enterance,infor,second customer place
+"""(16,49)""",prometheus gallery,enterance,infor,third customer place
+"""(15,47)""",prometheus gallery,enterance,infor,guide book shelf
+"""(28,46)""",prometheus gallery,enterance,exhibit enterance,enterance
+"""(40,47)""",prometheus gallery,enterance,exhibit enterance,exhibit poster
+"""(33,47)""",prometheus gallery,enterance,exhibit enterance,guide pannel
+"""(7,45)""",prometheus gallery,enterance,bench,left
+"""(8,45)""",prometheus gallery,enterance,bench,center
+"""(9,45)""",prometheus gallery,enterance,bench,right
+"""(50,45)""",prometheus gallery,exit,sitting place,left chair
+"""(52,45)""",prometheus gallery,exit,sitting place,right chair
+"""(70,46)""",prometheus gallery,exit,exhibit exit,exit
+"""(75,47)""",prometheus gallery,exit,exhibit exit,pannel
+"""(66,47)""",prometheus gallery,exit,exhibit exit,guide book shelf
+"""(89,45)""",prometheus gallery,exit,bench,left
+"""(90,45)""",prometheus gallery,exit,bench,center
+"""(91,45)""",prometheus gallery,exit,bench,right
+"""(86,45)""",prometheus gallery,exit,bench,chiar
+"""(10,28)""",prometheus gallery,firsh exhibit place,stand exhibit,first piece
+"""(14,28)""",prometheus gallery,firsh exhibit place,stand exhibit,second piece
+"""(18,28)""",prometheus gallery,firsh exhibit place,stand exhibit,third piece
+"""(22,28)""",prometheus gallery,firsh exhibit place,stand exhibit,fourth piece
+"""(10,35)""",prometheus gallery,firsh exhibit place,stand exhibit,fifth piece
+"""(14,35)""",prometheus gallery,firsh exhibit place,stand exhibit,sixth piece
+"""(18,35)""",prometheus gallery,firsh exhibit place,stand exhibit,seventh piece
+"""(22,35)""",prometheus gallery,firsh exhibit place,stand exhibit,eighth piece
+"""(10,20)""",prometheus gallery,firsh exhibit place,wall exhibit,first piece
+"""(14,20)""",prometheus gallery,firsh exhibit place,wall exhibit,second piece
+"""(18,20)""",prometheus gallery,firsh exhibit place,wall exhibit,third piece
+"""(22,20)""",prometheus gallery,firsh exhibit place,wall exhibit,fourth piece
+"""(7,20)""",prometheus gallery,firsh exhibit place,sofa,left
+"""(8,19)""",prometheus gallery,firsh exhibit place,sofa,right
+"""(27,17)""",prometheus gallery,firsh exhibit place,chair,chair
+"""(36,26)""",prometheus gallery,second exhibit place,first exhibit wall,left-side piece
+"""(40,26)""",prometheus gallery,second exhibit place,first exhibit wall,right-side piece
+"""(47,26)""",prometheus gallery,second exhibit place,second exhibit wall,left-side piece
+"""(51,26)""",prometheus gallery,second exhibit place,second exhibit wall,right-side piece
+"""(58,26)""",prometheus gallery,second exhibit place,third exhibit wall,left-side piece
+"""(62,26)""",prometheus gallery,second exhibit place,third exhibit wall,right-side piece
+"""(36,36)""",prometheus gallery,second exhibit place,fourth exhibit wall,left-side piece
+"""(40,36)""",prometheus gallery,second exhibit place,fourth exhibit wall,right-side piece
+"""(47,36)""",prometheus gallery,second exhibit place,fifth exhibit wall,left-side piece
+"""(51,36)""",prometheus gallery,second exhibit place,fifth exhibit wall,left-side piece
+"""(58,36)""",prometheus gallery,second exhibit place,sixth exhibit wall,right-side piece
+"""(62,36)""",prometheus gallery,second exhibit place,sixth exhibit wall,right-side piece
+"""(69,15)""",prometheus gallery,second exhibit place,bean bag,bean bag
+"""(31,15)""",prometheus gallery,second exhibit place,wall exhibit,first piece
+"""(35,15)""",prometheus gallery,second exhibit place,wall exhibit,second piece
+"""(39,15)""",prometheus gallery,second exhibit place,wall exhibit,third piece
+"""(43,15)""",prometheus gallery,second exhibit place,wall exhibit,fourth piece
+"""(47,15)""",prometheus gallery,second exhibit place,wall exhibit,fifth piece
+"""(51,15)""",prometheus gallery,second exhibit place,wall exhibit,sixth piece
+"""(55,15)""",prometheus gallery,second exhibit place,wall exhibit,seventh piece
+"""(59,15)""",prometheus gallery,second exhibit place,wall exhibit,eighth piece
+"""(63,15)""",prometheus gallery,second exhibit place,wall exhibit,ninth piece
+"""(67,15)""",prometheus gallery,second exhibit place,wall exhibit,tenth piece
+"""(90,19)""",prometheus gallery,third exhibit place,sofa,left
+"""(91,20)""",prometheus gallery,third exhibit place,sofa,right
+"""(76,28)""",prometheus gallery,third exhibit place,stand exhibit,first piece
+"""(80,28)""",prometheus gallery,third exhibit place,stand exhibit,second piece
+"""(84,28)""",prometheus gallery,third exhibit place,stand exhibit,third piece
+"""(88,28)""",prometheus gallery,third exhibit place,stand exhibit,fourth piece
+"""(76,35)""",prometheus gallery,third exhibit place,stand exhibit,fifth piece
+"""(80,35)""",prometheus gallery,third exhibit place,stand exhibit,sixth piece
+"""(84,35)""",prometheus gallery,third exhibit place,stand exhibit,seventh piece
+"""(88,35)""",prometheus gallery,third exhibit place,stand exhibit,eighth piece
+"""(76,20)""",prometheus gallery,third exhibit place,wall exhibit,first piece
+"""(80,20)""",prometheus gallery,third exhibit place,wall exhibit,second piece
+"""(84,20)""",prometheus gallery,third exhibit place,wall exhibit,third piece
+"""(88,20)""",prometheus gallery,third exhibit place,wall exhibit,fourth piece

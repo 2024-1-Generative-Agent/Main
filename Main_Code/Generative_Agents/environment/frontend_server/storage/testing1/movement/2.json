@@ -1,0 +1,97 @@
+{
+  "persona": {
+    "Dylan Yoon": {
+      "movement": [
+        18,
+        75
+      ],
+      "pronunciatio": "\ud83d\ude42",
+      "description": "having breakfast @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Emily Parker": {
+      "movement": [
+        27,
+        76
+      ],
+      "pronunciatio": "\ud83d\ude42",
+      "description": "attending her art history class (taking notes on the lecture) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Helen Potter": {
+      "movement": [
+        37,
+        76
+      ],
+      "pronunciatio": "\ud83d\ude42",
+      "description": "at the gallery, exploring the artwork @ the Ville:Gallery:firsh exhibit place stand exhibit:first piece",
+      "chat": null
+    },
+    "Johnny Kim": {
+      "movement": [
+        16,
+        85
+      ],
+      "pronunciatio": "\ud83d\ude42",
+      "description": "teaching as a university lecturer (setting up his lecture materials) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Reynolds Liam": {
+      "movement": [
+        26,
+        85
+      ],
+      "pronunciatio": "\ud83d\ude42",
+      "description": "attending college classes (walking to his first class) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Elowen Hart": {
+      "movement": [
+        54,
+        72
+      ],
+      "pronunciatio": "\ud83d\ude42",
+      "description": "working on her paintings in her home art studio (setting up her art supplies and materials) @ the Ville:Arthur Burton's apartment:main room:desk",
+      "chat": null
+    },
+    "Ethan Reed": {
+      "movement": [
+        67,
+        76
+      ],
+      "pronunciatio": "\ud83d\ude42",
+      "description": "checking emails and messages from work @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "James Mond": {
+      "movement": [
+        75,
+        70
+      ],
+      "pronunciatio": "\ud83d\ude42",
+      "description": "preparing for the day and catching up on new technological advancements @ the Ville:Gallery:enterance infor:guide book shelf",
+      "chat": null
+    },
+    "Rain Forest": {
+      "movement": [
+        88,
+        75
+      ],
+      "pronunciatio": "\ud83d\ude42",
+      "description": "at the gallery, looking at art pieces and discussing with Johnny Kim @ the Ville:Gallery:second exhibit place bean bag:bean bag",
+      "chat": null
+    },
+    "Tina Thompson": {
+      "movement": [
+        95,
+        76
+      ],
+      "pronunciatio": "\ud83d\ude42",
+      "description": "reviewing notes and information for her information desk job @ the Ville:Gallery:enterance infor:guide book shelf",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:00:30"
+  }
+}

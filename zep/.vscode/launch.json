@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/mjhsu/SynologyDrive/uni-life/활동들/동아리/프로메테우스-AI/프로젝트/Generative Agent 프로젝트/code/zep",
+      "program": "c:/Users/mjhsu/SynologyDrive/uni-life/활동들/동아리/프로메테우스-AI/프로젝트/Generative Agent 프로젝트/code/zep/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

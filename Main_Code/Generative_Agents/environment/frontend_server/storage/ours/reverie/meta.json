@@ -1,0 +1,20 @@
+{
+  "fork_sim_code": "None",
+  "start_date": "February 13, 2023",
+  "curr_time": "February 13, 2023, 09:00:00",
+  "sec_per_step": 15,
+  "maze_name": "the_ville_and_ours",
+  "persona_names": [
+    "Dylan Yoon",
+    "Emily Parker",
+    "Helen Potter",
+    "Johnny Kim",
+    "Reynolds Liam",
+    "Elowen Hart",
+    "Ethan Reed",
+    "James Mond",
+    "Rain Forest",
+    "Tina Thompson"    
+  ],
+  "step": 0
+}

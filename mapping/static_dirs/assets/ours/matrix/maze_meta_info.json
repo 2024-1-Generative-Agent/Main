@@ -1,0 +1,5 @@
+{"world_name": "ours", 
+ "maze_width": 98,
+ "maze_height": 56,
+ "sq_tile_size": 32,
+ "special_constraint": ""}

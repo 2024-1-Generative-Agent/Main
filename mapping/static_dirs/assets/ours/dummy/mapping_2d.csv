@@ -1,0 +1,73 @@
+coordinate,building,room,place,object
+[이차원배열],prometheus gallery,enterance,infor,employee place
+[이차원배열],prometheus gallery,enterance,infor,firsh customer place
+[이차원배열],prometheus gallery,enterance,infor,second customer place
+[이차원배열],prometheus gallery,enterance,infor,third customer place
+[이차원배열],prometheus gallery,enterance,infor,guide book shelf
+[이차원배열],prometheus gallery,enterance,exhibit enterance,enterance
+[이차원배열],prometheus gallery,enterance,exhibit enterance,exhibit poster
+[이차원배열],prometheus gallery,enterance,exhibit enterance,guide pannel
+[이차원배열],prometheus gallery,enterance,bench,left
+[이차원배열],prometheus gallery,enterance,bench,center
+[이차원배열],prometheus gallery,enterance,bench,right
+[이차원배열],prometheus gallery,exit,sitting place,left chair
+[이차원배열],prometheus gallery,exit,sitting place,right chair
+[이차원배열],prometheus gallery,exit,exhibit exit,exit
+[이차원배열],prometheus gallery,exit,exhibit exit,pannel
+[이차원배열],prometheus gallery,exit,exhibit exit,guide book shelf
+[이차원배열],prometheus gallery,exit,bench,left
+[이차원배열],prometheus gallery,exit,bench,center
+[이차원배열],prometheus gallery,exit,bench,right
+[이차원배열],prometheus gallery,exit,bench,chiar
+[이차원배열],prometheus gallery,firsh exhibit place,stand exhibit,first piece
+[이차원배열],prometheus gallery,firsh exhibit place,stand exhibit,second piece
+[이차원배열],prometheus gallery,firsh exhibit place,stand exhibit,third piece
+[이차원배열],prometheus gallery,firsh exhibit place,stand exhibit,fourth piece
+[이차원배열],prometheus gallery,firsh exhibit place,stand exhibit,fifth piece
+[이차원배열],prometheus gallery,firsh exhibit place,stand exhibit,sixth piece
+[이차원배열],prometheus gallery,firsh exhibit place,stand exhibit,seventh piece
+[이차원배열],prometheus gallery,firsh exhibit place,stand exhibit,eighth piece
+[이차원배열],prometheus gallery,firsh exhibit place,wall exhibit,first piece
+[이차원배열],prometheus gallery,firsh exhibit place,wall exhibit,second piece
+[이차원배열],prometheus gallery,firsh exhibit place,wall exhibit,third piece
+[이차원배열],prometheus gallery,firsh exhibit place,wall exhibit,fourth piece
+[이차원배열],prometheus gallery,firsh exhibit place,sofa,left
+[이차원배열],prometheus gallery,firsh exhibit place,sofa,right
+[이차원배열],prometheus gallery,firsh exhibit place,chair,chair
+[이차원배열],prometheus gallery,second exhibit place,first exhibit wall,left-side piece
+[이차원배열],prometheus gallery,second exhibit place,first exhibit wall,right-side piece
+[이차원배열],prometheus gallery,second exhibit place,second exhibit wall,left-side piece
+[이차원배열],prometheus gallery,second exhibit place,second exhibit wall,right-side piece
+[이차원배열],prometheus gallery,second exhibit place,third exhibit wall,left-side piece
+[이차원배열],prometheus gallery,second exhibit place,third exhibit wall,right-side piece
+[이차원배열],prometheus gallery,second exhibit place,fourth exhibit wall,left-side piece
+[이차원배열],prometheus gallery,second exhibit place,fourth exhibit wall,right-side piece
+[이차원배열],prometheus gallery,second exhibit place,fifth exhibit wall,left-side piece
+[이차원배열],prometheus gallery,second exhibit place,fifth exhibit wall,left-side piece
+[이차원배열],prometheus gallery,second exhibit place,sixth exhibit wall,right-side piece
+[이차원배열],prometheus gallery,second exhibit place,sixth exhibit wall,right-side piece
+[이차원배열],prometheus gallery,second exhibit place,bean bag,bean bag
+[이차원배열],prometheus gallery,second exhibit place,wall exhibit,first piece
+[이차원배열],prometheus gallery,second exhibit place,wall exhibit,second piece
+[이차원배열],prometheus gallery,second exhibit place,wall exhibit,third piece
+[이차원배열],prometheus gallery,second exhibit place,wall exhibit,fourth piece
+[이차원배열],prometheus gallery,second exhibit place,wall exhibit,fifth piece
+[이차원배열],prometheus gallery,second exhibit place,wall exhibit,sixth piece
+[이차원배열],prometheus gallery,second exhibit place,wall exhibit,seventh piece
+[이차원배열],prometheus gallery,second exhibit place,wall exhibit,eighth piece
+[이차원배열],prometheus gallery,second exhibit place,wall exhibit,ninth piece
+[이차원배열],prometheus gallery,second exhibit place,wall exhibit,tenth piece
+[이차원배열],prometheus gallery,third exhibit place,sofa,left
+[이차원배열],prometheus gallery,third exhibit place,sofa,right
+[이차원배열],prometheus gallery,third exhibit place,stand exhibit,first piece
+[이차원배열],prometheus gallery,third exhibit place,stand exhibit,second piece
+[이차원배열],prometheus gallery,third exhibit place,stand exhibit,third piece
+[이차원배열],prometheus gallery,third exhibit place,stand exhibit,fourth piece
+[이차원배열],prometheus gallery,third exhibit place,stand exhibit,fifth piece
+[이차원배열],prometheus gallery,third exhibit place,stand exhibit,sixth piece
+[이차원배열],prometheus gallery,third exhibit place,stand exhibit,seventh piece
+[이차원배열],prometheus gallery,third exhibit place,stand exhibit,eighth piece
+[이차원배열],prometheus gallery,third exhibit place,wall exhibit,first piece
+[이차원배열],prometheus gallery,third exhibit place,wall exhibit,second piece
+[이차원배열],prometheus gallery,third exhibit place,wall exhibit,third piece
+[이차원배열],prometheus gallery,third exhibit place,wall exhibit,fourth piece

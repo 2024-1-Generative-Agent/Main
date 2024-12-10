@@ -1,0 +1,57 @@
+1	 is	 Mona Lisa	 A portrait painting by Leonardo da Vinci.
+2	 is	 The Starry Night	 A famous painting by Vincent van Gogh depicting a night sky.
+3	 is	 The Scream	 An iconic work of art by Edvard Munch showing a figure with an agonized expression. 
+4	 is	 Guernica	 A powerful anti-war painting by Pablo Picasso.
+5	 is	 The Persistence of Memory	 A surreal painting by Salvador Dalí featuring melting clocks.
+6	 is	 Girl with a Pearl Earring	 A renowned portrait by Johannes Vermeer.
+7	 is	 The Night Watch	 A famous group portrait by Rembrandt van Rijn.
+8	 is	 American Gothic	 A painting by Grant Wood depicting a farmer and his daughter.
+9	 is	 The Birth of Venus	 A masterpiece by Sandro Botticelli illustrating the goddess Venus.
+10	 is	 The Creation of Adam	 A fresco by Michelangelo on the ceiling of the Sistine Chapel.
+11	 is	 The Last Supper	 A mural painting by Leonardo da Vinci representing Jesus and his disciples.
+12	 is	 Water Lilies	 A series of paintings by Claude Monet depicting his flower garden.
+13	 is	 The Kiss	 A symbolist painting by Gustav Klimt.
+14	 is	 Las Meninas	 A complex and enigmatic painting by Diego Velázquez.
+15	 is	 The Hay Wain	 A landscape painting by John Constable.
+16	 is	 The Arnolfini Portrait	 A detailed portrait by Jan van Eyck.
+17	 is	 Whistler's Mother	 An iconic portrait by James McNeill Whistler.
+18	 is	 The Garden of Earthly Delights	 A triptych by Hieronymus Bosch.
+19	 is	 A Sunday Afternoon on the Island of La Grande Jatte	 A pointillist painting by Georges Seurat.
+20	 is	 Nighthawks	 A painting by Edward Hopper depicting people in a diner late at night.
+21	 is	 Bal du moulin de la Galette	 A vibrant painting by Pierre-Auguste Renoir.
+22	 is	 The Great Wave off Kanagawa	 A famous woodblock print by Hokusai.
+23	 is	 The Son of Man	 A surreal painting by René Magritte.
+24	 is	 The School of Athens	 A fresco by Raphael depicting ancient philosophers.
+25	 is	 The Raft of the Medusa	 A dramatic painting by Théodore Géricault.
+26	 is	 Starry Night Over the Rhône	 Another famous night sky painting by Vincent van Gogh.
+27	 is	 The Fighting Temeraire	 A painting by J. M. W. Turner depicting a historic ship.
+28	 is	 Olympia	 A provocative painting by Édouard Manet.
+29	 is	 The Card Players	 A series of paintings by Paul Cézanne.
+30	 is	 Liberty Leading the People	 A revolutionary painting by Eugène Delacroix.
+31	 is	 Impression Sunrise	 The painting by Claude Monet that gave Impressionism its name.
+32	 is	 The Ambassadors	 A painting by Hans Holbein the Younger featuring a famous anamorphic skull.
+33	 is	 Venus de Milo	 An ancient Greek statue believed to depict Aphrodite.
+34	 is	 David	 A masterpiece of Renaissance sculpture by Michelangelo.
+35	 is	 The Thinker	 A famous bronze sculpture by Auguste Rodin.
+36	 is	 The Sleeping Gypsy	 A mysterious painting by Henri Rousseau.
+37	 is	 The Death of Marat	 A painting by Jacques-Louis David depicting the murdered French revolutionary leader.
+38	 is	 The Blue Boy	 A portrait by Thomas Gainsborough.
+39	 is	 Lady with an Ermine	 A portrait by Leonardo da Vinci.
+40	 is	 The Sleeping Venus	 A painting by Giorgione later completed by Titian.
+41	 is	 The Third of May 1808	 A painting by Francisco Goya depicting the execution of Spanish rebels.
+42	 is	 The Dance	 A colorful painting by Henri Matisse.
+43	 is	 The Red Vineyard	 The only painting sold by Vincent van Gogh during his lifetime.
+44	 is	 The Peasant Wedding	 A lively scene by Pieter Bruegel the Elder.
+45	 is	 No. 5. 1948	 A famous drip painting by Jackson Pollock.
+46	 is	 Broadway Boogie Woogie	 A modernist painting by Piet Mondrian.
+47	 is	 The Gross Clinic	 A painting by Thomas Eakins depicting a surgical operation.
+48	 is	 Christina's World	 A painting by Andrew Wyeth of a woman in a field.
+49	 is	 The Tower of Babel	 A painting by Pieter Bruegel the Elder.
+50	 is	 The Oath of the Horatii	 A painting by Jacques-Louis David showing a Roman legend.
+51	 is	 Dancing at the Moulin Rouge	 A painting by Henri de Toulouse-Lautrec.
+52	 is	 Napoleon Crossing the Alps	 A painting by Jacques-Louis David depicting Napoleon.
+53	 is	 The Laughing Cavalier	 A portrait by Frans Hals.
+54	 is	 Ophelia	 A painting by John Everett Millais depicting a scene from Hamlet.
+55	 is	 The Last Judgment	 A fresco by Michelangelo covering the wall behind the altar of the Sistine Chapel.
+56	 is	 Portrait of Adele Bloch-Bauer I	 A famous portrait by Gustav Klimt.
+57	 is	 Bathers at Asnières	 A large oil painting by Georges Seurat.

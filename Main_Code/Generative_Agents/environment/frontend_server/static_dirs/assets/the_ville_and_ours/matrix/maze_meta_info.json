@@ -1,0 +1,5 @@
+{"world_name": "the Ville", 
+ "maze_width": 140,
+ "maze_height": 156,
+ "sq_tile_size": 32,
+ "special_constraint": ""}

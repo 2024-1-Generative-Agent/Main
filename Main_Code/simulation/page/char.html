@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Avatar and Lifestyle Generator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        #form-container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 300px;
+        }
+        label, input, textarea, button {
+            display: block;
+            width: 100%;
+            margin-bottom: 10px;
+        }
+        textarea {
+            resize: vertical; /* 사용자에게 세로로 크기 조절 가능하도록 허용 */
+            min-height: 50px; /* 최소 높이 설정 */
+            max-height: 150px; /* 최대 높이 설정 */
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        #result {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div id="form-container">
+    <form id="user-input-form">
+        <label for="name">이름 (Name):</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="age">나이 (Age):</label>
+        <input type="number" id="age" name="age" required>
+
+        <label for="traits">페르소나 성격 (Personality Traits):</label>
+        <textarea id="traits" name="traits" required></textarea>
+
+        <button type="submit">Generate Avatar and Pattern</button>
+    </form>
+
+    <div id="result"></div>
+</div>
+
+<script>
+    document.getElementById('user-input-form').addEventListener('submit', async function(event) {
+        event.preventDefault();
+
+        const name = document.getElementById('name').value;
+        const age = document.getElementById('age').value;
+        const traits = document.getElementById('traits').value.split(',');
+
+        const response = await fetch('/generate', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ name, age, traits })
+        });
+
+        const data = await response.json();
+        displayResult(data.result);
+    });
+
+    function displayResult(result) {
+        const resultContainer = document.getElementById('result');
+        resultContainer.innerHTML = `
+            <h3>Generated Result:</h3>
+            <p>${result}</p>
+            <!-- 아바타 이미지를 표시하는 부분 -->
+            <img src="generated_avatar_url_here" alt="Avatar Image" id="avatar-image">
+        `;
+    }
+</script>
+
+</body>
+</html>

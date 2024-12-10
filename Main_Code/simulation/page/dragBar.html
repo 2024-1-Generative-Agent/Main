@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Date Range Slider</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: transparent;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .slider-container {
+            width: 80%;
+            max-width: 600px;
+            text-align: center;
+        }
+        input[type="range"] {
+            width: 100%;
+        }
+        .date-display {
+            margin-top: 20px;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <div class="slider-container">
+        <input type="range" id="dateSlider" min="0" max="1" step="0.01" value="0">
+        <div class="date-display" id="dateDisplay"></div>
+    </div>
+    
+    <script>
+        const startDate = new Date('February 13, 2023, 09:00:00');
+        const endDate = new Date('February 20, 2023, 21:00:00');
+
+        const slider = document.getElementById('dateSlider');
+        const dateDisplay = document.getElementById('dateDisplay');
+
+        function updateDateDisplay(value) {
+            const timeSpan = endDate - startDate;
+            const currentDate = new Date(startDate.getTime() + value * timeSpan);
+            const formattedDate = currentDate.toISOString(); // ISO 형식으로 날짜 변환
+            dateDisplay.textContent = currentDate.toLocaleString();
+
+            // GET 요청 보내기
+            fetch(`http://baculum.i234.me:8081?date=${encodeURIComponent(formattedDate)}`)
+                .then(response => response.text())
+                .then(data => console.log(data))
+                .catch(error => console.error('Error:', error));
+        }
+
+        slider.addEventListener('input', (event) => {
+            updateDateDisplay(event.target.value);
+        });
+
+        updateDateDisplay(slider.value);
+    </script>
+</body>
+</html>

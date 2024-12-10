@@ -1,0 +1,204 @@
+{
+  "map": {
+    "prometheus gallery": {
+      "enterance": {
+        "infor": {
+          "employee place" : [20, 46],
+          "firsh customer place": [20, 49],
+          "second customer place": [18, 49],
+          "third customer place": [16, 49],
+          "guide book shelf": [15, 47]
+        },
+        "exhibit enterance": {
+          "enterance": [28, 46],
+          "exhibit poster": [40, 46],
+          "guide pannel": [33, 47]
+        },
+        "bench": {
+          "left": [7, 45],
+          "center": [8, 45],
+          "right": [9, 45]
+        }
+      },
+      "exit": {
+        "sitting place": {
+          "left chair": [50, 45],
+          "right chair": [52, 45]
+        },
+        "exhibit exit": {
+          "exit": [70, 46],
+          "pannel": [75, 47],
+          "guide book shelf": [66, 47]
+        },
+        "bench": {
+          "left": [89, 45],
+          "center": [90, 45],
+          "right": [91, 45],
+          "chair": [86, 45]
+        }
+      },
+      "first exhibit place": {
+        "stand exhibit": {
+          "first piece": [10, 28],
+          "second piece": [14, 28],
+          "third piece": [18, 28],
+          "fourth piece": [22, 28],
+          "fifth piece": [10, 35],
+          "sixth piece": [14, 35],
+          "seventh piece": [18, 35],
+          "eighth piece": [22, 35]
+        },
+        "wall exhibit": {
+          "first piece": [10, 20],
+          "second piece": [14, 20],
+          "third piece": [18, 20],
+          "fourth piece": [22, 20]
+        },
+        "sofa": {
+          "left": [7, 20],
+          "right": [8, 19]
+        },
+        "chair": {
+          "chair": [27, 17]
+        }
+      },
+      "second exhibit place": {
+        "first exhibit wall": {
+          "left-side piece": [36, 26],
+          "right-side piece": [40, 26]
+        },
+        "second exhibit wall": {
+          "left-side piece": [47, 26],
+          "right-side piece": [51, 26]
+        },
+        "third exhibit wall": {
+          "left-side piece": [58, 26],
+          "right-side piece": [62, 26]
+        },
+        "fourth exhibit wall": {
+          "left-side piece": [36, 36],
+          "right-side piece": [40, 36]
+        },
+        "fifth exhibit wall": {
+          "left-side piece": [47, 36],
+          "right-side piece": [51, 36]
+        },
+        "sixth exhibit wall": {
+          "left-side piece": [58, 36],
+          "right-side piece": [62, 36]
+        },
+        "bean bag": {
+          "bean bag": [69, 15]
+        },
+        "wall exhibit": {
+          "first piece": [31, 14],
+          "second piece": [35, 14],
+          "third piece": [39, 14],
+          "fourth piece": [43, 14],
+          "fifth piece": [47, 14],
+          "sixth piece": [51, 14],
+          "seventh piece": [55, 14],
+          "eighth piece": [59, 14],
+          "ninth piece": [63, 14],
+          "tenth piece": [67, 14]
+        }
+      },
+      "third exhibit place": {
+        "sofa": {
+          "left": [90, 19],
+          "right": [91, 20]
+        },
+        "stand exhibit": {
+          "first piece": [76, 28],
+          "second piece": [80, 28],
+          "third piece": [84, 28],
+          "fourth piece": [88, 28],
+          "fifth piece": [76, 35],
+          "sixth piece": [76, 35],
+          "seventh piece": [76, 35],
+          "eighth piece": [76, 35]
+        },
+        "wall exhibit": {
+          "first piece": [76, 20],
+          "second piece": [80, 20],
+          "third piece": [84, 20],
+          "fourth piece": [88, 20]
+        }
+      }
+    }
+  },
+  "coordinate" : [
+        [20, 46],
+        [20, 49],
+        [18, 49],
+        [16, 49],
+        [15, 47],
+        [28, 46],
+        [40, 46],
+        [33, 47],
+        [7, 45],
+        [8, 45],
+        [9, 45],
+        [50, 45],
+        [52, 45],
+        [70, 46],
+        [75, 47],
+        [66, 47],
+        [89, 45],
+        [90, 45],
+        [91, 45],
+        [86, 45],
+        [10, 28],
+        [14, 28],
+        [18, 28],
+        [22, 28],
+        [10, 35],
+        [14, 35],
+        [18, 35],
+        [22, 35],
+        [10, 20],
+        [14, 20],
+        [18, 20],
+        [22, 20],
+        [7, 20],
+        [8, 19],
+        [27, 17],
+        [36, 26],
+        [40, 26],
+        [47, 26],
+        [51, 26],
+        [58, 26],
+        [62, 26],
+        [36, 36],
+        [40, 36],
+        [47, 36],
+        [51, 36],
+        [58, 36],
+        [62, 36],
+        [69, 15],
+        [31, 14],
+        [35, 14],
+        [39, 14],
+        [43, 14],
+        [47, 14],
+        [51, 14],
+        [55, 14],
+        [59, 14],
+        [63, 14],
+        [67, 14],
+        [90, 19],
+        [91, 20],
+        [76, 28],
+        [80, 28],
+        [84, 28],
+        [88, 28],
+        [76, 35],
+        [76, 35],
+        [76, 35],
+        [76, 35],
+        [76, 20],
+        [80, 20],
+        [84, 20],
+        [88, 20]
+  ]
+}

@@ -88,7 +88,7 @@
 cd backend/reverie
 python reverie.py
 ```
-- **이후 내용 작성하기**
+
 
 
 ## Reference
